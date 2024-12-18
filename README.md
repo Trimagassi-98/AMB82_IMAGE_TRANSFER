@@ -51,6 +51,7 @@ Upload the sketch to the AMB82-MINI.
 # Python Setup
 
 Install Python 3.9+ on your computer.
+# I used Pycharm -----
 
 Install required libraries:
 pip install tkinter
@@ -85,6 +86,9 @@ Ensure the AMB82-MINI is correctly configured to send data to the host's IP.
 -- Unsupported File Format:
 The images successfully upload to the server, but the resulting files are in an unsupported or corrupted format.
 Possible Cause: This might be due to incorrect encoding or an incomplete image data transfer
+# NO CURRENT FIX FOR THE ABOVE ISSUE
+# WHOEVER SEES THIS, I HAVE DONE MY PART AND I BELIEVE YOU CAN FIX THIS ISSUE
+# GOODLUCK
 
 
 
